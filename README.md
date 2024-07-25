@@ -2,7 +2,7 @@
 
 I'm a software engineer with experience ranging from undergraduate research, mobile & web development, and Command & Control (C2) software.
 
-I currently work at [Northrop Grumman](https://www.northropgrumman.com/) as a full stack web developer. In my current assignment, I am responsible for 
+I currently work at [Northrop Grumman](https://www.northropgrumman.com/) as a full stack web developer. In my current role, I am responsible for 
 maintaining and developing web site & apps for our Mission System sector.
 
 ## 👀 Interests
