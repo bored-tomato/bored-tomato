@@ -16,7 +16,7 @@ designing, developing, testing, and deploying web sites & apps for our Mission S
 - <b>Databases</b>: SQL (SQLite/PostgreSQL), NoSQL (MongoDB, DynamoDB)
 - <b>Developer Tools</b>: AWS, Azure DevOps, Git/Bitbucket, Jira, Confluence
 
-## 🏢 Companies I've Worked at:
+## 🏢 Companies I've Worked for:
 - [Northrop Grumman](https://www.linkedin.com/company/northrop-grumman-corporation/)
 - [Rufus Labs](https://www.linkedin.com/company/rufus-labs/)
 - [California State Polytechnic University-Pomona](https://www.linkedin.com/school/cal-poly-pomona/)
